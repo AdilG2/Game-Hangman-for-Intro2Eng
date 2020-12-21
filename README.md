@@ -1,1 +1,1 @@
-# Game-Hangman-for-Intro2Eng
+# Game-Finding the word-for-Intro2Eng
