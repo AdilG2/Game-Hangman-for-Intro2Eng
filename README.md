@@ -2,8 +2,7 @@
 
 ##### In this game you have to find a word like in a game called 'Hangman'. One must guess the word, and the other must guess.
 
-##### You will have five attempts to guess.
-Each misspelled letter will take away attempts.
+##### You will have five attempts to guess. Each misspelled letter will take away attempts.
 
 ##### If you don't guess, you will lose. Here is a screenshot:
 <img src="https://github.com/AdilG2/Game-Hangman-for-Intro2Eng/blob/main/Снимок%20экрана%202020-12-22%20в%200.56.59.png">
