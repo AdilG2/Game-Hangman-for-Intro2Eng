@@ -1,6 +1,6 @@
 ## Description:
 
-##### In this game you have to find a word like in a game called 'Hangman'. One must guess the word, and the other must guess.
+##### In this game you have to find a word like in a game called 'Guess Word'. One must guess the word, and the other must guess.
 
 ##### You will have five attempts to guess. Each misspelled letter will take away attempts.
 
