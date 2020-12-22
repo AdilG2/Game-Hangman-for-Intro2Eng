@@ -16,7 +16,7 @@
 ## How to run:
 ##### You will need to install any IDE or text editor. Then you can run and enjoy the game.
 
-##Presentation link:
+Presentation link:
 https://drive.google.com/file/d/1iQ6ZOIqatDfo53806XjITxF7110eY2Jw/view?usp=sharing
 
 ## Team member list:
